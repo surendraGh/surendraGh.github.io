@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in theoretical computer science at Cornell University. I am advised [Noah Stephens-Davidowitz](https://noahsd.com/). My research is centered around post-quantum cryptography and the mathematical structures that enable the construction post-quantum cryptosystems, namely lattices and error-correcting codes.
+I am a fourth-year PhD student in theoretical computer science at Cornell University. I am advised [Noah Stephens-Davidowitz](https://noahsd.com/). My research is centered around post-quantum cryptography and the mathematical structures that enable the construction post-quantum cryptosystems, namely lattices and error-correcting codes.
 
 I completed my Bachelors of Science at the University of California, Santa Barbara. There, I was advised by [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/). Under his guidance, I used program verification techniques to study the problem of information leakage.
 
@@ -16,10 +16,24 @@ Shoot me an email if you want to talk!
 
 Publications
 ======
+<span style="font-size:1.05em;">**Hierarchies within TFNP: building blocks and collapses**</span>  
+<span style="font-size:0.9em;">
+  Surendra Ghentiyala, Zeyong Li<br>
+In submission<br>
+[[Arxiv](https://arxiv.org/abs/2507.21550){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
+
+<span style="font-size:1.05em;">**Downward self-reducibility in the total function polynomial hierarchy**</span>  
+<span style="font-size:0.9em;">
+  Karthik Gajulapalli, Surendra Ghentiyala, Zeyong Li, Sidhant Saraogi<br>
+In submission<br>
+[[Arxiv](https://arxiv.org/abs/2507.19108){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
+
 <span style="font-size:1.05em;">**New constructions of pseudorandom codes**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Venkatesan Guruswami<br>
-In submission<br>
+RANDOM 2025<br>
 [[Arxiv](https://arxiv.org/abs/2409.07580){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
