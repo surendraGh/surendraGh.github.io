@@ -27,7 +27,6 @@ In submission<br>
 <span style="font-size:0.9em;">
   Surendra Ghentiyala<br>
 SOSA 2026<br>
-[[Arxiv](https://arxiv.org/abs/2507.19108){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**Downward self-reducibility in the total function polynomial hierarchy**</span>  
