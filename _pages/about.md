@@ -16,6 +16,13 @@ Shoot me an email if you want to talk!
 
 Publications
 ======
+<span style="font-size:1.05em;">**The Structure of In-Place Space-Bounded Computation**</span>  
+<span style="font-size:0.9em;">
+  James Cook, Surendra Ghentiyala, Ian Mertz, Ted Pyne, Nathan Sheffield<br>
+In submission<br>
+[[Arxiv](https://arxiv.org/abs/2510.12005){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
+
 <span style="font-size:1.05em;">**Hierarchies within TFNP: building blocks and collapses**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Zeyong Li<br>
