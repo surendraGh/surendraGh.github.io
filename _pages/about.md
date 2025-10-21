@@ -30,10 +30,12 @@ In submission<br>
 [[Arxiv](https://arxiv.org/abs/2507.21550){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
+
 <span style="font-size:1.05em;">**Efficient derandomization of differentially private counting queries**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala<br>
 SOSA 2026<br>
+[[Arxiv](http://arxiv.org/abs/2510.16959){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**Downward self-reducibility in the total function polynomial hierarchy**</span>  
