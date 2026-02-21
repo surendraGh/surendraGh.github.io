@@ -16,13 +16,6 @@ Shoot me an email if you want to talk!
 
 Publications
 ======
-<span style="font-size:1.05em;">**Range Avoidance, Arthur-Merlin, and TFNP**</span>  
-<span style="font-size:0.9em;">
-  Surendra Ghentiyala, Zeyong Li, Noah Stephens-Davidowitz<br>
-In submission<br>
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/210/){:style="text-decoration: none"}{:target="_blank"}]<br>
-</span>
-
 <span style="font-size:1.05em;">**The Structure of In-Place Space-Bounded Computation**</span>  
 <span style="font-size:0.9em;">
   James Cook, Surendra Ghentiyala, Ian Mertz, Ted Pyne, Nathan Sheffield<br>
@@ -37,6 +30,12 @@ In submission<br>
 [[Arxiv](https://arxiv.org/abs/2507.21550){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
+<span style="font-size:1.05em;">**Range Avoidance, Arthur-Merlin, and TFNP**</span>  
+<span style="font-size:0.9em;">
+  Surendra Ghentiyala, Zeyong Li, Noah Stephens-Davidowitz<br>
+STOC 2026<br>
+[[ECCC](https://eccc.weizmann.ac.il/report/2025/210/){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
 
 <span style="font-size:1.05em;">**Efficient derandomization of differentially private counting queries**</span>  
 <span style="font-size:0.9em;">
