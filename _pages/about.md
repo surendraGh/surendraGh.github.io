@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in theoretical computer science at Cornell University. I am advised by [Noah Stephens-Davidowitz](https://noahsd.com/). My research is in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and cryptography, with a particular emphasis on the complexity class [TFNP](https://en.wikipedia.org/wiki/TFNP). I also enjoy thinking other areas in theoretical computer science, including error correcting codes and (more recently) differential privacy.
+I am a fourth-year PhD student in theoretical computer science at Cornell University. I am advised by [Noah Stephens-Davidowitz](https://noahsd.com/). My research is in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and cryptography, with a particular emphasis on the complexity class [TFNP](https://en.wikipedia.org/wiki/TFNP). I also enjoy thinking about other areas in theoretical computer science, including error-correcting codes and (more recently) differential privacy.
 
 I completed my Bachelor of Science at the University of California, Santa Barbara. There, under the guidance of [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/), I used program verification techniques to study the problem of information leakage.
 
-I have been very fortunate to be hosted for summer visits at UC Berkeley with [Venkat Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and Columbia University with [Mihalis Yannakakis](https://www.cs.columbia.edu/~mihalis/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/). This summer I am interning at Google Research in Mountain View with [Pritish Kamath](https://pritishkamath.github.io/), [Pasin Manurangsi](https://pasin30055.github.io/), and [Ravi Kumar](https://sites.google.com/site/ravik53/).
+I have been very fortunate to be hosted for summer visits at UC Berkeley with [Venkat Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and at Columbia University with [Mihalis Yannakakis](https://www.cs.columbia.edu/~mihalis/), where I also worked with [Toniann Pitassi](https://www.cs.columbia.edu/~toni/). This summer, I am interning at Google Research in Mountain View with [Pritish Kamath](https://pritishkamath.github.io/), [Pasin Manurangsi](https://pasin30055.github.io/), and [Ravi Kumar](https://sites.google.com/site/ravik53/).
 
 Please feel free to reach out if you want to chat!
 
