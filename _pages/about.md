@@ -18,7 +18,7 @@ Please feel free to reach out if you want to chat!
 
 Publications
 ======
-<span style="font-size:1.05em;">** Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries **</span>  
+<span style="font-size:1.05em;">**Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Pritish Kamath, Ravi Kumar, Pasin Manurangsi<br>
 In submission<br>
