@@ -12,7 +12,7 @@ I am a fourth-year PhD student in theoretical computer science at Cornell Univer
 
 I completed my Bachelor of Science at the University of California, Santa Barbara. There, under the guidance of [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/), I used program verification techniques to study the problem of information leakage.
 
-I have been very fortunate to be hosted for summer visits at UC Berkeley with [Venkat Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and at Columbia University with [Mihalis Yannakakis](https://www.cs.columbia.edu/~mihalis/), where I also worked with [Toniann Pitassi](https://www.cs.columbia.edu/~toni/). This summer, I interned at Google Research in Mountain View with [Pritish Kamath](https://pritishkamath.github.io/), [Pasin Manurangsi](https://pasin30055.github.io/), and [Ravi Kumar](https://sites.google.com/site/ravik53/). I am currently spending the semester at MIT working with [Yael Kalai] (https://www.csail.mit.edu/person/yael-kalai).
+I have been very fortunate to be hosted for summer visits at UC Berkeley with [Venkat Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and at Columbia University with [Mihalis Yannakakis](https://www.cs.columbia.edu/~mihalis/), where I also worked with [Toniann Pitassi](https://www.cs.columbia.edu/~toni/). This summer, I interned at Google Research in Mountain View with [Pritish Kamath](https://pritishkamath.github.io/), [Pasin Manurangsi](https://pasin30055.github.io/), and [Ravi Kumar](https://sites.google.com/site/ravik53/). I am currently spending the semester at MIT working with [Yael Kalai](https://www.csail.mit.edu/person/yael-kalai).
 
 Please feel free to reach out if you want to chat!
 
