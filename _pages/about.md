@@ -47,7 +47,6 @@ In *ITCS 2027*<br>
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Pritish Kamath, Ravi Kumar, Pasin Manurangsi<br>
 In *ITCS 2027*<br>
-[[Arxiv](https://arxiv.org/abs/2609.02880v1){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**Range Avoidance, Arthur-Merlin, and TFNP**</span>  
