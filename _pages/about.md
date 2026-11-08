@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in theoretical computer science at Cornell University. I am advised by [Noah Stephens-Davidowitz](https://noahsd.com/). My research is in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and cryptography, with a particular emphasis on the complexity class [TFNP](https://en.wikipedia.org/wiki/TFNP). I also enjoy thinking about other areas in theoretical computer science, including error-correcting codes and (more recently) differential privacy.
+<p style="border-left: 3px solid #527a9b; background: rgba(82, 122, 155, 0.08); padding: 0.8em 1em; margin: 1.2em 0;">
+  I will be on the <strong>postdoc job market</strong> for positions starting in <strong>Fall 2027</strong>.
+</p>
+
+I am a fifth-year PhD student in theoretical computer science at Cornell University. I am advised by [Noah Stephens-Davidowitz](https://noahsd.com/). My research is in [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and cryptography, with a particular emphasis on the complexity class [TFNP](https://en.wikipedia.org/wiki/TFNP). I also enjoy thinking about other areas in theoretical computer science, including error-correcting codes and (more recently) differential privacy.
 
 I completed my Bachelor of Science at the University of California, Santa Barbara. There, under the guidance of [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/), I used program verification techniques to study the problem of information leakage.
 
@@ -25,13 +29,6 @@ In submission<br>
 [[Arxiv](https://arxiv.org/abs/2609.02880v1){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
-<span style="font-size:1.05em;">**The Structure of In-Place Space-Bounded Computation**</span>  
-<span style="font-size:0.9em;">
-  James Cook, Surendra Ghentiyala, Ian Mertz, Ted Pyne, Nathan Sheffield<br>
-In submission<br>
-[[Arxiv](https://arxiv.org/abs/2510.12005){:style="text-decoration: none"}{:target="_blank"}]<br>
-</span>
-
 <span style="font-size:1.05em;">**Hierarchies within TFNP: building blocks and collapses**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Zeyong Li<br>
@@ -39,31 +36,45 @@ In submission<br>
 [[Arxiv](https://arxiv.org/abs/2507.21550){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
+<span style="font-size:1.05em;">**The Structure of In-Place Space-Bounded Computation**</span>  
+<span style="font-size:0.9em;">
+  James Cook, Surendra Ghentiyala, Ian Mertz, Ted Pyne, Nathan Sheffield<br>
+In *ITCS 2027*<br>
+[[Arxiv](https://arxiv.org/abs/2510.12005){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
+
+<span style="font-size:1.05em;">**Saving Private Randomness in Differential Privacy**</span>  
+<span style="font-size:0.9em;">
+  Surendra Ghentiyala, Pritish Kamath, Ravi Kumar, Pasin Manurangsi<br>
+In *ITCS 2027*<br>
+[[Arxiv](https://arxiv.org/abs/2609.02880v1){:style="text-decoration: none"}{:target="_blank"}]<br>
+</span>
+
 <span style="font-size:1.05em;">**Range Avoidance, Arthur-Merlin, and TFNP**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Zeyong Li, Noah Stephens-Davidowitz<br>
-STOC 2026<br>
+In *STOC 2026*<br>
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/210/){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**Efficient derandomization of differentially private counting queries**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala<br>
-SOSA 2026<br>
+In *SOSA 2026*<br>
 [[Arxiv](http://arxiv.org/abs/2510.16959){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**Downward self-reducibility in the total function polynomial hierarchy**</span>  
 <span style="font-size:0.9em;">
   Karthik Gajulapalli, Surendra Ghentiyala, Zeyong Li, Sidhant Saraogi<br>
-SODA 2026<br>
+In *SODA 2026*<br>
 [[Arxiv](https://arxiv.org/abs/2507.19108){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
 <span style="font-size:1.05em;">**New constructions of pseudorandom codes**</span>  
 <span style="font-size:0.9em;">
   Surendra Ghentiyala, Venkatesan Guruswami<br>
-RANDOM 2025<br>
+In *RANDOM 2025*<br>
 [[Arxiv](https://arxiv.org/abs/2409.07580){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
